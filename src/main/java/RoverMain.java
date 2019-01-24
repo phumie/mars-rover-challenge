@@ -5,7 +5,7 @@ import rover.Rover;
 
 public class RoverMain {
     public static void main(String[] args) {
-        if (ErrorCheck.checkLines("./commands.txt")){
+        if (ErrorCheck.checkLines("../../../../commands.txt")){
             ReadFile readFile = new ReadFile();
             Coordinates gridSize = ReadFile.getGridSize();
             Coordinates roverCoordinates = ReadFile.getRoverCoordinates();

@@ -10,7 +10,7 @@ public class ReadFile {
     private static String[] lines = null;
 
     public ReadFile() {
-        lines = readFile("./commands.txt");
+        lines = readFile("../../../../commands.txt");
     }
 
     public static boolean doesFileExist(String fileName) throws Exception {
