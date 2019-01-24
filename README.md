@@ -41,7 +41,20 @@ This is how the rover will interpret the above commands:
 You are to design a program which takes a text in the format as described above and then
 displays its resulting rover location to the console.
 
-## Installation and Tests
+## Installation and Running The Project
+
+This is a gradle project. To run the project, please make sure you have gradle installed. If not, you can follow the installation guide on **https://gradle.org/install/**. For ubuntu installations, you can run the following on the command line:
+
+```bash
+sudo apt install gradle
+```
+
+To run the project, go to the root of the project and run the following commands:
+
+```bash
+$ gradle
+$ sh run.sh
+```
 
 ## Important notes
 
