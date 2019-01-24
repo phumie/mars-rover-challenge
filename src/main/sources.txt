@@ -1,0 +1,6 @@
+./java/filereader/ReadFile.java
+./java/main.main.java
+./java/coordinates/Coordinates.java
+./java/errorcheck/ErrorCheck.java
+./java/movements/Movement.java
+./java/rover/Rover.java

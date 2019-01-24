@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - RoverMain",
+			"request": "launch",
+			"mainClass": "RoverMain",
+			"projectName": "rover-challenge"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Main",
+			"request": "launch",
+			"mainClass": "main.Main",
+			"projectName": "rover-challenge"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Main",
+			"request": "launch",
+			"mainClass": "Main",
+			"projectName": "rover-challenge"
+		}
+	]
+}
